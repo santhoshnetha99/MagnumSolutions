@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "801341761388",
+    "firebase_url": "https://magnum-b04a1.firebaseio.com",
+    "project_id": "magnum-b04a1",
+    "storage_bucket": "magnum-b04a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801341761388:android:99d5a6ec0f86557a",
+        "android_client_info": {
+          "package_name": "www.santhoshnetha99.com.magnumsolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801341761388-bsfop8q161ghdsmuh314q3mgg99rj5rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBnmqWflAAnqciZkytyCLKMQr6cPC-S0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
